@@ -29,4 +29,4 @@ for i in range(10):
 print (i)
 ```
 
-이런 코드는 'break'로 빠져나오는 거야. 
+이런 코드는 `break`로 빠져나오는 거야.
